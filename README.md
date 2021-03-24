@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fernando0887
+- 👋 Hi, I’m Fernando
 - 👀 I’m interested in Python, Data science, Machine learning
 - 🌱 I’m currently learning in Python, Data science, Machine learning
 - 💞️ I’m looking to collaborate on all I can
