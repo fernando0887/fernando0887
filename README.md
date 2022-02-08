@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fernando
+- 👋 Hi, I’m Fernando. Post graduate in data science, fascinated by the world of data always looking for improvement.
 - 👀 I’m interested in Python, Data science, Machine learning
 - 🌱 I’m currently learning in Python, R, Data science, Machine learning
 - 💞️ I’m looking to collaborate on all I can
